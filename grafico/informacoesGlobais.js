@@ -10,4 +10,4 @@ async function visualizarInformacoesGlobais() {
 
     }
 
-    visualizarInformacoesGlobais()
+    visualizarInformacoesGlobais() 
